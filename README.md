@@ -21,3 +21,5 @@ Our deliverable above consists of:
 - A summary sheet
 - A letter to the company
 - Our formal solution written in LaTeX
+- A data dictionary
+- Generalized R code to see what we developed (and run if you really wanted to!)
